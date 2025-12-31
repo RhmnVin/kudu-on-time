@@ -35,5 +35,20 @@ Web ini adalah aplikasi berbasis PHP dan MySQL untuk membantudosen mengelola tug
 1. Clone repository:
 
 ```bash
-git clone https://github.com/username/nama-proyek.git
-cd nama-proyek
+menuju okasi htdocs untuk xampp atau www untuk laragon
+git clone https://github.com/RhmnVin/kudu-on-time.git
+cd kudu-on-time
+
+## Running
+1. server local dapat menggunakan xampp ataupun laragon
+2. aktifkan server apache dan mysql
+3. import file sql ke database
+4. akses website dengan link " localhost/schedule/index.php "
+5. login sebagai admin atau dosen, dengan contoh akun adalah
+admin :
+      - email : admin@gmail.com
+      - password : admin123
+dosen :
+      - email : clonningsh4@gmail.com
+      - password : anakbandung11
+
