@@ -1,6 +1,6 @@
 # 📅 Web Pengingat Deadline Akademik
 
-Web ini adalah aplikasi berbasis PHP dan MySQL untuk membantu mahasiswa atau dosen mengelola tugas, ujian, dan proyek akademik. Proyek ini juga terintegrasi dengan **Google Calendar** sehingga pengguna dapat menerima notifikasi otomatis.
+Web ini adalah aplikasi berbasis PHP dan MySQL untuk membantudosen mengelola tugas, ujian, dan proyek akademik. Proyek ini juga terintegrasi dengan **Google Calendar** sehingga pengguna dapat menerima notifikasi otomatis.
 
 ---
 
